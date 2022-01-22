@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/javascpdev/javascpdev/blob/main/Logo.gif" />
+  <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
 </p>
 
 <p align="center">
